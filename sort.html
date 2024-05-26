@@ -178,6 +178,7 @@ function insertionSort(arr){
   for(i = 1; i&lt;len; i++){
     el = arr[i];
     j = i;
+    toInsert = el;
 
     while(j>0 && arr[j-1]>toInsert){
       arr[j] = arr[j-1];

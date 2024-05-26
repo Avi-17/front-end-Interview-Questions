@@ -168,7 +168,7 @@ __________________
 
 
 
-## [html: Basic Questions for Begginers](http://www.thatjsdude.com/interview/html.html)
+## [html: Basic Questions for Beginners](http://www.thatjsdude.com/interview/html.html)
 
 15 basic questions and asnwers
 ______
@@ -219,4 +219,4 @@ __________________
 4. Graph and high order data structure in JavaScript
 ___________________
 
-Inpsired by, [darcyclarke](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions), [css-tricks](http://css-tricks.com/interview-questions-css/), [david shariff](https://gist.github.com/jesspoemape/87665d65cde3980485ec27cef1602a0d) and some google results. If you want to add any question to this let me know.
+Inpsired by, [darcyclarke](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions), [css-tricks](http://css-tricks.com/interview-questions-css/), [david shariff] and some google results. If you want to add any question to this let me know.
